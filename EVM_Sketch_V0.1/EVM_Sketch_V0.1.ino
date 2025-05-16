@@ -1,5 +1,5 @@
 /*
-* Copyright (c) 2025 Md Ammar Maniyar - Ampnics
+* Copyright (c) 2023 Md Ammar Maniyar - Ampnics
  
 * This Arduino sketch is open-source and licensed under the 
 * Creative Commons Attribution 4.0 International License (CC BY 4.0).
